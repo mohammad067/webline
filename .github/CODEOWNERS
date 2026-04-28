@@ -1,0 +1,5 @@
+# Security governance for critical files
+.github/workflows/ @mohammad067
+SECURITY.md @mohammad067
+.gitignore @mohammad067
+.jules/ @mohammad067
