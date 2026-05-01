@@ -1,0 +1,8 @@
+# Security Governance
+# Mandate review for all security-critical files and directories
+
+.github/workflows/ @mohammad067
+SECURITY.md @mohammad067
+.gitignore @mohammad067
+.jules/ @mohammad067
+.github/CODEOWNERS @mohammad067
