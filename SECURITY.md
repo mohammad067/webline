@@ -14,7 +14,7 @@ We take the security of this project seriously. If you believe you have found a 
 
 Instead, please report vulnerabilities by contacting us through the following methods:
 
-1. **Email:** Please send an email to the project maintainers (check the project's metadata for contact details).
+1. **Email:** Please contact the maintainer **@mohammad067** via the project's metadata or GitHub profile.
 2. **GitHub Private Reporting:** If available, use the GitHub private vulnerability reporting feature for this repository.
 
 ### What to include in your report
