@@ -1,0 +1,8 @@
+# Security Governance: Ensure all changes to security configurations are reviewed by the maintainer.
+
+# Global owners for security-critical files
+.github/workflows/  @mohammad067
+.github/CODEOWNERS  @mohammad067
+.gitignore          @mohammad067
+SECURITY.md         @mohammad067
+.jules/             @mohammad067
