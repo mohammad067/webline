@@ -12,10 +12,10 @@ Currently, only the latest version of this project is supported. Please ensure y
 
 We take the security of this project seriously. If you believe you have found a security vulnerability, please do NOT report it via a public issue.
 
-Instead, please report vulnerabilities by contacting us through the following methods:
+Instead, please report vulnerabilities by:
 
-1. **Email:** Please send an email to the project maintainers (check the project's metadata for contact details).
-2. **GitHub Private Reporting:** If available, use the GitHub private vulnerability reporting feature for this repository.
+1. **GitHub Private Reporting:** Use the GitHub private vulnerability reporting feature for this repository if available.
+2. **Contacting Maintainers:** Reach out to [@mohammad067](https://github.com/mohammad067) directly.
 
 ### What to include in your report
 
@@ -35,4 +35,4 @@ After receiving a report, we will:
 3. Work on a fix.
 4. Notify you once the vulnerability has been addressed.
 
-Thank you for helping us keep this project secure!
+Thank you for helping us keep Webline secure!
