@@ -55,3 +55,7 @@ desktop.ini
 .npm/
 .yarn/
 .cache/
+
+# Registry tokens
+.npmrc
+.yarnrc
