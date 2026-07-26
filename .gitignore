@@ -7,6 +7,8 @@ node_modules/
 /obj
 
 # Environment variables and secrets
+.npmrc
+.yarnrc
 .env
 *.env
 .env.local
