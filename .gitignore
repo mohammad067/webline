@@ -55,3 +55,7 @@ desktop.ini
 .npm/
 .yarn/
 .cache/
+
+# Registry configurations (mitigate registry token exposure)
+.npmrc
+.yarnrc
