@@ -1,0 +1,4 @@
+## 2026-08-20 - Restoring Security Baseline and Secret Scanning
+**Vulnerability:** Recurring baseline regression where the automated secret-scanning Gitleaks workflow (`.github/workflows/gitleaks.yml`) and registry token exclusions (`.npmrc`, `.yarnrc` in `.gitignore`) were missing on active branches.
+**Learning:** Branch initialization or merges can omit repository-wide security controls if security configuration isn't enforced across all active development paths.
+**Prevention:** Always maintain `.github/workflows/gitleaks.yml` with pinned action SHAs (`actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683` and `gitleaks/gitleaks-action@ff98106e4c7b2bc287b24eaf42907196329070c7`), set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true` for runner compatibility, and enforce registry token exclusions in `.gitignore`.
